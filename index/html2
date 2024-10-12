@@ -1,0 +1,20 @@
+<html>
+    <title> Main menu </title>
+    <body style="background-color: #cebfef; font-family: 'Trebuchet MS', sans-serif;">
+       <header style="text-align:center">
+         <p style="text-align: center; background-color: white; border-radius: 40px"><img src="https://www.olympia-einkaufszentrum.de/fileadmin/user_upload/GLOBAL/brand_stores/logos/cinnamood.png" height="180px"/></p>
+                      <a  style="background-color: lightyellow; color:#cebfef ; border: 1px solid white; border-radius: 10px; text-decoration: none; padding: 13px; margin: 10px; text-align: center; margin-top: 20px" href="ПОСИЛАННЯ НА НАСТУПНИЙ САЙТ"> 𝑾𝒉𝒂𝒕 𝒊𝒔 𝑪𝒊𝒏𝒏𝒂𝒎𝒐𝒐𝒅? </a>
+           <a  style="background-color: lightyellow; color:#cebfef ; border: 1px solid white; border-radius: 10px; text-decoration: none; padding: 13px; margin: 10px; text-align: right; margin-top: 20px" href="ПОСИЛАННЯ НА НАСТУПНИЙ САЙТ"> 𝑹𝒐𝒍𝒍𝒔 </a>
+            <a  style="background-color: lightyellow; color:#cebfef ; border: 1px solid white; border-radius: 10px; text-decoration: none; padding: 13px; margin: 10px; text-align: right; margin-top: 20px" href="ПОСИЛАННЯ НА НАСТУПНИЙ САЙТ"> 𝑴𝒂𝒊𝒏 𝒎𝒆𝒏𝒖 </a>
+       </header>   
+       <main style="text-align:center">
+         <h1 style="color: white"> Hello Wie Are Cinnamood </h1>
+<div style="display: flex; justify-content: center;"> <p style="display: flex; justify-content: center; background-color: white; border-radius: 5px; font-size: 23px; display: inline; color:  #cebfef;font-family: "Courier New", Courier, monospace;">"Cinnamood"<br>is a young start-up with its headquarters in Colognewhich specializes in yeast pastries. The franchise company has branches in Leipzig, Berlin, Hamburg and Frankfurt. Since its foundation in 2022, the company has developed rapidly.</p></div>
+
+<img style="border-radius: 25px" src="https://www.ruhrnachrichten.de/wp-content/uploads/2023/04/05/17/630_0900_2834931_Cinnamood.jpg" height="350px" width="450px" />
+       </main>
+       <footer>
+         <a href="main menu">
+       </footer>     
+    </body>    
+</html>   
