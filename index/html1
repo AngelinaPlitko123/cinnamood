@@ -1,0 +1,110 @@
+<html>
+    <title> Cinnamood Rolls </title>
+    <body style="background-color: #cebfef; font-family: 'Trebuchet MS', sans-serif;">
+       <header style="text-align:center">
+         <p style="text-align: center; background-color: white; border-radius: 40px"><img src="https://www.olympia-einkaufszentrum.de/fileadmin/user_upload/GLOBAL/brand_stores/logos/cinnamood.png" height="180px"/></p>
+                      <a  style="background-color: lightyellow; color:#cebfef ; border: 1px solid white; border-radius: 10px; text-decoration: none; padding: 13px; margin: 10px; text-align: center; margin-top: 20px" href="ПОСИЛАННЯ НА НАСТУПНИЙ САЙТ"> 𝑾𝒉𝒂𝒕 𝒊𝒔 𝑪𝒊𝒏𝒏𝒂𝒎𝒐𝒐𝒅? </a>
+           <a  style="background-color: lightyellow; color:#cebfef ; border: 1px solid white; border-radius: 10px; text-decoration: none; padding: 13px; margin: 10px; text-align: right; margin-top: 20px" href="ПОСИЛАННЯ НА НАСТУПНИЙ САЙТ"> 𝑹𝒐𝒍𝒍𝒔 </a>
+            <a  style="background-color: lightyellow; color:#cebfef ; border: 1px solid white; border-radius: 10px; text-decoration: none; padding: 13px; margin: 10px; text-align: right; margin-top: 20px" href="ПОСИЛАННЯ НА НАСТУПНИЙ САЙТ"> 𝑴𝒂𝒊𝒏 𝒎𝒆𝒏𝒖 </a>
+       </header>   
+       <main style="text-align:center">
+         <h1 style="color: #cebfef; background-color: white; border-radius: 19999px "> Menu </h1>
+      <div style="display: flex; justify-content: center;"> <p style="text-align: center; border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cinnamood.de/wp-content/uploads/2023/08/Classic-Roll-Vegan.jpg"height="180px" /><br>˗ˏˋ𝑪𝒊𝒏𝒏𝒂𝒎𝒐𝒏 𝑹𝒐𝒍𝒍 ˎˊ˗  </p></div>
+       <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top: 10px; border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2023/08/Apple-Roll.jpg"height="180px" /><br>˗ˏˋ𝑨𝒑𝒑𝒍𝒆 𝑹𝒐𝒍𝒍 ˎˊ˗  </p></div>
+       <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2023/08/Blueberry-Roll.jpg"height="180px" /><br>˗ˏˋ𝑩𝒍𝒖𝒆𝒃𝒆𝒓𝒓𝒚 𝑹𝒐𝒍𝒍ˎˊ˗  </p></div>
+     <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2023/10/Raspberrywhite-1.jpg"height="180px" /><br>˗ˏˋ𝑾𝒉𝒊𝒕𝒆 𝑪𝒉𝒐𝒄𝒐𝒍𝒂𝒕𝒆 <br>𝑹𝒂𝒔𝒑𝒃𝒆𝒓𝒓𝒚 𝑹𝒐𝒍𝒍ˎˊ˗  </p></div>
+     <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2024/02/Red-Velvet-Roll.jpg"height="180px" /><br>˗ˏˋ𝑹𝒆𝒅 𝑽𝒆𝒍𝒗𝒆𝒕 𝑹𝒐𝒍𝒍ˎˊ˗  </p></div>
+      <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2024/02/Chip-Choc-Cookie-Dough.jpg"height="180px" /><br>˗ˏˋ𝑪𝒐𝒐𝒌𝒊𝒆 𝑫𝒐𝒖𝒈𝒉 𝑪𝒉𝒊𝒑<br> 𝑪𝒉𝒐𝒄 𝑹𝒐𝒍𝒍ˎˊ˗  </p></div>
+     <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2024/04/Cherry-Choc-Roll.jpg"height="180px" /><br>˗ˏˋ𝑪𝒉𝒆𝒓𝒓𝒚 𝑪𝒉𝒐𝒄 𝑹𝒐𝒍𝒍ˎˊ˗  </p></div>
+     <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2023/08/Oreo-Roll.jpg"height="180px" /><br>˗ˏˋ𝑶𝒓𝒆𝒐 𝑹𝒐𝒍𝒍ˎˊ˗  </p></div>
+     <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2023/08/Pistachio-ROll.jpg"height="180px" /><br>˗ˏˋ𝑷𝒊𝒔𝒕𝒂𝒄𝒉𝒊𝒐 𝑹𝒐𝒍𝒍ˎˊ˗  </p></div>
+     <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2023/08/Tiramisu-Roll.jpg"height="180px" /><br>˗ˏˋ𝑻𝒊𝒓𝒂𝒎𝒊𝒔𝒖 𝑹𝒐𝒍𝒍ˎˊ˗  </p></div>
+     <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2023/08/Snicka-Roll.jpg"height="180px" /><br>˗ˏˋ𝑺𝒏𝒊𝒄𝒌𝒂 𝑹𝒐𝒍𝒍ˎˊ˗  </p></div>
+     <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2023/08/Lotus.jpg"height="180px" /><br>˗ˏˋ𝑺𝒑𝒆𝒄𝒖𝒍𝒂𝒔 𝑹𝒐𝒍𝒍ˎˊ˗  </p></div>
+     <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2023/08/Coco-Roll.jpg"height="180px" /><br>˗ˏˋ𝑹𝒂𝒇𝒇𝒂𝒆𝒍𝒍𝒂 𝑹𝒐𝒍𝒍ˎˊ˗  </p></div>
+     <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2023/08/Bueno-Roll.jpg"height="180px" /><br>˗ˏˋ𝑩𝒖𝒆𝒏𝒐 𝑹𝒐𝒍𝒍ˎˊ˗  </p></div>
+      <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2023/08/Salted-Caramell-Roll.jpg"height="180px" /><br>˗ˏˋ𝑺𝒂𝒍𝒕𝒆𝒅 𝑪𝒂𝒓𝒂𝒎𝒆𝒍 𝑹𝒐𝒍𝒍ˎˊ˗  </p></div>
+     <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2023/10/Carrot-Cake-Roll.jpg"height="180px" /><br>˗ˏˋ𝑪𝒂𝒓𝒓𝒐𝒕 𝑪𝒂𝒌𝒆 𝑹𝒐𝒍𝒍ˎˊ˗  </p></div>
+     <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2023/10/Pumpkin-Spice-1.jpg"height="180px" /><br>˗ˏˋ𝑷𝒖𝒎𝒑𝒌𝒊𝒏 𝑺𝒑𝒊𝒄𝒆 𝑹𝒐𝒍𝒍ˎˊ˗  </p></div>
+     <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2023/08/Lemon-.jpg"height="180px" /><br>˗ˏˋ𝑳𝒆𝒎𝒐𝒏 𝒓𝒐𝒍𝒍ˎˊ˗  </p></div>
+     <div style="display: flex; justify-content: center;"> <p style="text-align: center; margin-top:10px;border-radius: 17px;font-size: 45px;background-color: white; color:#cebfef"> <img style="border-radius: 15px" src="https://cdn-jmfkf.nitrocdn.com/yNgGOXEoAZMheKmgFuEiRJEUEnpfLWtX/assets/images/optimized/rev-c275660/cinnamood.de/wp-content/uploads/2023/12/Marzipan-Roll.jpg"height="180px" /><br>˗ˏˋ𝑴𝒂𝒓𝒛𝒊𝒑𝒂𝒏 𝒓𝒐𝒍𝒍ˎˊ˗  </p></div>
+</main>
+       <footer>
+       <table style="border: 2px solid white; border-collapse: collapse; color: white">             
+            <tr style="border: 2px solid white">
+             <td> </td>             
+              <td> Roll Names </td>
+              <td> </td>
+             <td> Prices </td>            
+            </tr>
+             <tr style="border: 2px solid white"> 
+             <td> Classic Rolls </td>
+            
+             <td> "Cinnamon Roll" </td>
+             <td> </td>
+             <td> 4,50€ </td>
+             </tr>
+              <tr style="border: 2px solid white"> 
+             <td rowspan="3"> Fruity Rolls </td>
+             <td> Apple Roll </td>
+             <td> </td>
+             <td> 4,70€ </td>
+             </tr>
+             <tr style="border: 2px solid white"> 
+             <td> Blueberry Roll </td>
+             </tr>
+             <tr style="border: 2px solid white">
+             <td>  White Chocolate Raspberry Roll </td>
+             </tr>
+             <tr style="border: 2px solid white">
+             <td rowspan="15" > Next Level Rolls </td>
+             <td> Red Velvet Roll </td>
+             <td> </td>
+             <td> 4,90€ </td>
+             </tr>
+             <tr style="border: 2px solid white">
+             <td> Cookie Dough Chip Chop Roll </td>
+             </tr>
+             <tr style="border: 2px solid white">
+             <td>Cherry Choc Roll </td>
+             </tr>
+             <tr style="border: 2px solid white">
+             <td> Oreo Roll  </td>
+             </tr>
+             <tr style="border: 2px solid white">
+             <td> Pistacio Roll </td>
+             </tr>
+             <tr style="border: 2px solid white">
+             <td> Tiramisu Roll </td>
+             </tr>
+             <tr style="border: 2px solid white">
+             <td> Snicka Roll </td>
+             </tr>
+             <tr style="border: 2px solid white">
+             <td> Speculas Roll </td>
+             </tr>
+             <tr style="border: 2px solid white">
+             <td> Raffaella Roll </td>
+             </tr>
+             <tr style="border: 2px solid white">
+             <td> Bueno Roll </td>
+             </tr>
+             <tr style="border: 2px solid white">
+             <td> Salted Caramel Roll </td>
+             </tr>
+             <tr style="border: 2px solid white">
+             <td> Carrot Cake Roll </td>
+             </tr>
+             <tr style="border: 2px solid white">
+             <td> Pumpkin Spice Roll </td>
+             </tr>
+             <tr style="border: 2px solid white">
+             <td> Lemon Roll </td>
+             </tr>
+             <tr style="border: 2px solid white">
+             <td> Marzipan Roll </td>
+             </tr>
+       </table>
+       </footer>     
+    </body>    
+</html>   
